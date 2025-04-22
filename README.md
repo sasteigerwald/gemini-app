@@ -1,6 +1,6 @@
-# Run and deploy your AI Studio app
+# Google Maps, Gemini AI and React playground app (converted)
 
-This contains everything you need to run your app locally.
+Google Maps, Gemini AI and React playground app (converted)
 
 ## Run Locally
 
